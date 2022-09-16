@@ -1,4 +1,5 @@
 import random
+
 def delOddN(arr):
     evenArr=[]
     for i in arr:
