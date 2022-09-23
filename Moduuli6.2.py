@@ -7,5 +7,5 @@ tahko=int(input('Anna nopan tahkojen määrä: '))
 noppa=0
 
 while noppa!=tahko:
-        noppa=heitaNoppa(tahko)
+        noppa=Nopanheitto(tahko)
         print(noppa)
